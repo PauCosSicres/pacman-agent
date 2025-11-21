@@ -4,7 +4,7 @@
 
 **Instructor:** Ahana Deb
 
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** SCF
 
 **Team members:**
 
