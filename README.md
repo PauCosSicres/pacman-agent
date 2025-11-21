@@ -1,6 +1,6 @@
 # Team Information
 
-**Course:** Artificial Inteligence 2025-24304-T1
+**Course:** Artificial Intelligence 2025-24304-T1
 
 **Instructor:** Ahana Deb
 
